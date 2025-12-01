@@ -1,16 +1,60 @@
 ## Hi there 👋
 
-<!--
-**Ihsan0312/Ihsan0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps-focused engineer with hands-on experience in automation, cloud infrastructure and continuous integration workflows.  
+Skilled in using tools like Docker, AWS and Git to streamline software delivery and improve system reliability.  
+I enjoy building scalable, secure and efficient deployment workflows while applying practical problem-solving and a collaborative mindset.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Areas I'm Actively Strengthening
+- Version control with Git & GitHub  
+- Linux administration and shell scripting  
+- DevOps fundamentals and AWS cloud services (EC2, S3)  
+- Machine Learning data workflows and model experimentation  
+
+---
+
+## 🧑‍💻 Programming Languages
+- Python  
+- C  
+- SQL  
+- Shell Scripting  
+
+---
+
+## 📚 Libraries & Frameworks
+- NumPy  
+- Pandas  
+- Scikit-learn  
+
+---
+
+## 🛠️ Tools & Technologies
+- VS Code  
+- AWS (EC2, S3)  
+- Git  
+- Docker  
+- Containerization  
+
+---
+
+## 💼 Experience
+- **Machine Learning Intern – Privaseverse**  
+  Worked on data cleaning, tokenization, anomaly detection, micro-GPT experiments and log analysis while managing cloud/GPU environments and automation tasks.
+
+---
+
+## 📘 Current Projects
+- DevOps automation scripts  
+- Cloud deployment practice on AWS  
+- Personal learning journal  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/mohd-ihsan-ahmed-rizwan
+- Email: mohdihsanrizwan@gmail.com  
+
+---
+
+🌟 *Always learning, always building.*
