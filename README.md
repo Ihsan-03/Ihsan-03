@@ -2,7 +2,7 @@
 
 I'm a DevOps-focused engineer with hands-on experience in automation, cloud infrastructure and continuous integration workflows.  
 Skilled in using tools like Docker, AWS and Git to streamline software delivery and improve system reliability.  
-I enjoy building scalable, secure and efficient deployment workflows while applying practical problem-solving and a collaborative mindset.
+I focus on building scalable, secure and efficient deployment workflows while applying practical problem-solving and a collaborative mindset.
 
 ---
 
