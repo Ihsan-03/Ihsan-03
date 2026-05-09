@@ -35,6 +35,7 @@ I focus on building scalable, secure and efficient deployment workflows while ap
 - Git  
 - Docker  
 - Containerization  
+- Bash Scripting
 
 ---
 
